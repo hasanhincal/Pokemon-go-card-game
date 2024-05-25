@@ -6,6 +6,3 @@ Bu proje, Pokemon kartları temel alınarak oluşturulan bir kart oyununu içeri
 
 <img src="screen1.gif">
 
-### API adres;
-
-"https://raw.githubusercontent.com"
