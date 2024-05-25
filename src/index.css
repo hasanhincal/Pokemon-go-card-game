@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #eceff1;
+  font-weight: bold;
+  text-align: center;
+}
+.lineerColor {
+  -webkit-box-shadow: 2px 3px 12px 3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 3px 12px 3px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 3px 12px 3px rgba(0, 0, 0, 0.75);
+  background: rgb(113, 13, 180);
+  background: linear-gradient(
+    180deg,
+    rgb(133, 31, 201) 0%,
+    rgba(197, 253, 29, 1) 35%,
+    rgba(252, 181, 69, 0.5254552504595589) 100%
+  );
+}
